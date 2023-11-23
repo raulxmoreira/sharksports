@@ -32,7 +32,7 @@
             </div>
             <div class="col-md-6 order-md-1">
                 <div class="col-12">
-                <img src="img/insta4.jpg" alt="login de usuário" class="img-fluid" style = "width: 50%; height: 50%;">
+                <img src="img/shark1-removebg-preview.png" alt="login de usuário" class="img-fluid" style = "width: 50%; height: 50%;">
                 </div>
                 <div class="col-12 mt-3" id="link-container">
                 <a href="<?=$BASE_URL ?>cadastro.php" class="link-success"><i class="bi bi-exclamation-circle-fill"></i> Ainda não tenho cadastro</a>
