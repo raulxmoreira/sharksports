@@ -47,7 +47,7 @@
             </div>
             <!-- Coluna central para informações da loja -->
             <div class="col-12 col-md-4 footer-column" id="footer-center">
-                <h3>TimelessWatches</h3>
+                <h3>Shark Sports</h3>
                 <p class="secondary-color">Alguma dúvida? Ligue para nós</p>
                 <p class="store-phone"><i class="bi bi-telephone"></i> (11)99999-9999</p>
             </div>
@@ -83,7 +83,7 @@
     </div>
     <!-- Seção com informações de direitos autorais -->
     <div class="container" id="copy-container">
-        <p>Todos os direitos reservados @2023 <span class="primary-color">TimelessWatches</span> - Os melhores relógios</p>
+        <p>Todos os direitos reservados @2023 <span class="primary-color">Shark Sports</span> - Os melhores suplementos</p>
     </div>
 </footer>
 

@@ -67,15 +67,15 @@
       <div class="col-12 col-md-3">
       <!-- Coluna para o primeiro produto -->
         <div class="card primary-bg-color">
-          <img src="img/relogio1.png" class="card-img-top img-fluid" alt="Relógio 1">
+          <img src="img/moletomshark-removebg-preview.png" class="card-img-top img-fluid" alt="Relógio 1">
           <!-- Imagem do produto -->
           <div class="card-body">
           <!-- Corpo do cartão -->
-          <p class="card-category secondary-color">Relógio</p>
+          <p class="card-category secondary-color">Roupa</p>
           <!-- Categoria do produto -->
-          <h5 class="card-title">ON Whey Protein + creatina 1,8 kg sabor chocolate</h5>
+          <h5 class="card-title">Moletom Shark Sports</h5>
           <!-- Nome do produto -->
-          <p class="card-text primary-color">R$177.63</p>
+          <p class="card-text primary-color">R$110,00</p>
           <!-- Preço do produto -->
           <a href="#" class="btn btn-primary">Comprar</a>
           <!-- Botão de compra -->
@@ -86,7 +86,7 @@
         <div class="card primary-bg-color">
           <img src="img/hipergrowth-removebg-preview.png" class="card-img-top img-fluid" alt="Relógio 4">
           <div class="card-body">
-            <p class="card-category secondary-color">Relógio</p>
+            <p class="card-category secondary-color">Suplemento</p>
             <h5 class="card-title">Hipercalórico sabor chocolate 1kg</h5>
             <p class="card-text primary-color">R$62,50</p>
             <a href="#" class="btn btn-primary">Comprar</a>
@@ -97,7 +97,7 @@
         <div class="card primary-bg-color">
           <img src="img/MAX-removebg-preview.png" class="card-img-top img-fluid" alt="Relógio 5">
           <div class="card-body">
-            <p class="card-category secondary-color">Relógio</p>
+            <p class="card-category secondary-color">Suplemento</p>
             <h5 class="card-title">Max titanium whey protein blend 2kg sabor vitamina de frutas</h5>
             <p class="card-text primary-color">R$102,50</p>
             <a href="#" class="btn btn-primary">Comprar</a>
@@ -106,12 +106,12 @@
       </div>
       <div class="col-12 col-md-3">
         <div class="card primary-bg-color">
-          <img src="img/relogio8.png" class="card-img-top img-fluid" alt="Relógio 8">
+          <img src="img/regatashark-removebg-preview.png" class="card-img-top img-fluid" alt="Relógio 8">
           <div class="card-body">
-            <p class="card-category secondary-color">Relógio</p>
-            <h5 class="card-title">Nome do produto</h5>
-            <p class="card-text primary-color">R$177.63</p>
-            <a href="#" class="btn btn-primary">Comprar</a>
+            <p class="card-category secondary-color">Roupa</p>
+            <h5 class="card-title">Regata Shark Sports</h5>
+            <p class="card-text primary-color">R$39,99</p>
+            <a href="<?= $BASE_URL ?>produto.php" class="btn btn-primary">Comprar</a>
           </div>
         </div>
       </div>
@@ -125,19 +125,15 @@
     <div class="row">
     <!-- Linha que contém duas colunas -->
         <div class="col-12 col-md-8">
-        <!-- Coluna para a seção de texto -->
-            <p class="primary-color offer-subtitle">Desconto de até 75%</p>
             <!-- Subtítulo da oferta -->
-            <h2 class="light-color">Relógio X</h2>
-            <!-- Título do produto -->
-            <p class="secondary-color">Presenteie o seu amor com este relógio luxuoso</p>
+            <h2 class="light-color">Venha <br> Conhecer</h2>
             <!-- Descrição do produto -->
             <a href="#" class="btn btn-primary">Comprar agora</a>
             <!-- Botão de compra -->
         </div>
         <!-- Coluna para a imagem -->
-        <div class="col-12 col-md-4">
-            <img src="img/relogio6.png" alt="Relógio 6">
+        <div class="col-12 col-md-4 imagem">
+            <img src="img/18a21eba-bbc9-4775-9210-7cc0ea097858.jpg" alt="Relógio 6">
             <!-- Imagem do produto -->
         </div>
     </div>
@@ -155,7 +151,7 @@
         <!-- Coluna para o banner de produtos (ATENÇÃO! visível apenas em desktop) -->
             <p class="secondary-color">Os melhores</p>
             <!-- Texto secundário -->
-            <h3>Relógios</h3>
+            <h3>equipamentos</h3>
             <!-- Título da seção de relógios -->
             <p class="primary-color">pelos melhores preços</p>
             <!-- Texto primário -->
@@ -170,15 +166,15 @@
                 <!-- Coluna para um produto -->
                     <div class="card primary-bg-color">
                     <!-- Cartão do produto -->
-                        <img src="img/relogio8.png" class="card-img-top img-fluid" alt="Relógio">
+                        <img src="img/pulso-removebg-preview.png" class="card-img-top img-fluid" alt="Hand Grip">
                         <!-- Imagem do produto -->
                         <div class="card-body">
                         <!-- Corpo do cartão -->
-                            <p class="card-category">Relógio</p>
+                            <p class="card-category">Equipamento</p>
                             <!-- Categoria do produto -->
-                            <h5 class="card-title">Nome do produto</h5>
+                            <h5 class="card-title">Hand Grip</h5>
                             <!-- Nome do produto -->
-                            <p class="card-text">R$177.63</p>
+                            <p class="card-text">R$17,99</p>
                             <!-- Preço do produto -->
                             <a href="#" class="btn btn-primary">Comprar</a>
                             <!-- Botão de compra -->
@@ -187,55 +183,55 @@
                 </div>
           <div class="col-12 col-md-4">
             <div class="card primary-bg-color">
-              <img src="img/relogio7.png" class="card-img-top img-fluid" alt="Relógio">
+              <img src="img/image-removebg-preview.png" class="card-img-top img-fluid" alt="Halter">
               <div class="card-body">
-                <p class="card-category">Relógio</p>
-                <h5 class="card-title">Nome do produto</h5>
-                <p class="card-text">R$177.63</p>
+                <p class="card-category">Equipamento</p>
+                <h5 class="card-title">Halter</h5>
+                <p class="card-text">R$50,00</p>
                 <a href="#" class="btn btn-primary">Comprar</a>
               </div>
             </div>
           </div>
           <div class="col-12 col-md-4">
             <div class="card primary-bg-color">
-              <img src="img/relogio5.png" class="card-img-top img-fluid" alt="Relógio">
+              <img src="img/image-removebg-previe.png" class="card-img-top img-fluid" alt="Relógio">
               <div class="card-body">
-                <p class="card-category">Relógio</p>
-                <h5 class="card-title">Nome do produto</h5>
-                <p class="card-text">R$177.63</p>
+                <p class="card-category">Equipamento</p>
+                <h5 class="card-title">Kit 20kg Anilhas + 1 Barra 120cm Com Presilhas</h5>
+                <p class="card-text">R$298,70</p>
                 <a href="#" class="btn btn-primary">Comprar</a>
               </div>
             </div>
           </div>
           <div class="col-12 col-md-4">
             <div class="card primary-bg-color">
-              <img src="img/relogio4.png" class="card-img-top img-fluid" alt="Relógio">
+              <img src="img/bola.png" class="card-img-top img-fluid" alt="Relógio">
               <div class="card-body">
-                <p class="card-category">Relógio</p>
-                <h5 class="card-title">Nome do produto</h5>
-                <p class="card-text">R$177.63</p>
+                <p class="card-category">Equipamento</p>
+                <h5 class="card-title">Bola para exercicios</h5>
+                <p class="card-text">R$52,00</p>
                 <a href="#" class="btn btn-primary">Comprar</a>
               </div>
             </div>
           </div>
           <div class="col-12 col-md-4">
             <div class="card primary-bg-color">
-              <img src="img/hipergrowth-removebg-preview.png" class="card-img-top img-fluid" alt="Relógio">
+              <img src="img/shakeira-removebg-preview (2).png" class="card-img-top img-fluid" alt="Relógio">
               <div class="card-body">
-                <p class="card-category">Relógio</p>
-                <h5 class="card-title">Nome do produto</h5>
-                <p class="card-text">R$177.63</p>
+                <p class="card-category">Equipamento</p>
+                <h5 class="card-title">Shakeira</h5>
+                <p class="card-text">R$15,50</p>
                 <a href="#" class="btn btn-primary">Comprar</a>
               </div>
             </div>
           </div>
           <div class="col-12 col-md-4">
             <div class="card primary-bg-color">
-              <img src="img/relogio2.png" class="card-img-top img-fluid" alt="Relógio">
+              <img src="img/corda-removebg-preview.png" class="card-img-top img-fluid" alt="Relógio">
               <div class="card-body">
-                <p class="card-category">Relógio</p>
-                <h5 class="card-title">Nome do produto</h5>
-                <p class="card-text">R$177.63</p>
+                <p class="card-category">Equipamento</p>
+                <h5 class="card-title">Corda de pular crossfit</h5>
+                <p class="card-text">R$15,00</p>
                 <a href="#" class="btn btn-primary">Comprar</a>
               </div>
             </div>

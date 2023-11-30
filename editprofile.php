@@ -41,7 +41,7 @@
               <input type="text" readonly class="form-control disabled" id="email" name="email" placeholder="Digite o seu nome" value="<?= $userData->email ?>">
             </div>
             <br>
-            <input type="submit" class="btn btn-outline-success" value="Alterar">
+            <input type="submit" class="btn btn-primary" value="Alterar">
           </div>
 
           <div class="col-md-6 mt-5">
@@ -76,7 +76,7 @@
               <input type="password" class="form-control" id="confirmpassw" name="confirmpassw" placeholder="Confirme a sua nova senha">
             </div>
             <br>
-            <input type="submit" class="btn btn-outline-success" value="Alterar Senha">
+            <input type="submit" class="btn btn-primary" value="Alterar Senha">
           </form>
         </div>
       </div>

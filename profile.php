@@ -45,7 +45,7 @@
     <div class="col-md-8 offset-md-2">
       <div class="row profile-container">
         <div class="col-md-12 about-container">
-          <h1 class="page-title bg-success rounded"><?= $fullName ?></h1>
+          <h1 class="page-title secondary-bg-color rounded"><?= $fullName ?></h1>
             <div id="profile-image-container" class="profile-image" style="background-image: url('<?= $BASE_URL ?>img/users/<?= $userData->image ?>')">
             </div>
             <h3 class="about-title">Sobre:</h3>

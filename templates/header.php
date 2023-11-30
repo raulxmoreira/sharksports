@@ -77,6 +77,11 @@ $userData = $userController->verifyToken(false);
                 Editar
               </a>
             </li>
+            <div class="carrinho">
+            <li class="nav-item1">
+              <a href="<?= $BASE_URL ?>carrinho.php"> <i class="bi bi-cart2"></i> Carrinho</a>
+            </li>
+            </div>
             <li class="nav-item">
               <a href="<?= $BASE_URL ?>logout.php" class="nav-link"><i class="bi bi-door-open"></i> Sair</a>
             </li>
@@ -87,6 +92,8 @@ $userData = $userController->verifyToken(false);
             <li class="nav-item">
               <a href="<?= $BASE_URL ?>login.php" class="nav-link"> <i class="bi bi-person"></i> Entrar</a>              
             </li>
+            
+
           <?php endif; ?>
         </ul>
       </div>

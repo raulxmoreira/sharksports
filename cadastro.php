@@ -48,13 +48,13 @@
                     </div>
                     <div class="mb-3">
                         <div class="form-check mb-2">
-                            <input class="form-check-input bg-success border border-success" type="checkbox" value="" id="agree-term">
+                            <input class="form-check-input secondary-bg-color" type="checkbox" value="" id="agree-term">
                             <label class="form-check-label" for="agree-term">
-                            Concordo com os <a href="#" class="link-success">termos de serviço</a>
+                            Concordo com os <a href="#" class="primary-color">termos de serviço</a>
                             </label>
                         </div>
                             <div class="form-check">
-                            <input class="form-check-input bg-success border border-success" type="checkbox" value="" id="newsletter" checked>
+                            <input class="form-check-input secondary-bg-color" type="checkbox" value="" id="newsletter" checked>
                             <label class="form-check-label" for="newsletter">
                                 Aceito receber mais notícias informações
                             </label>
@@ -65,20 +65,20 @@
                     <div class="d-flex justify-content-around">   
 
                         <!-- Botão para submeter o formulário e cadastrar o cliente -->
-                        <input type="submit" class="btn btn-outline-success" value="Registrar">
+                        <input type="submit" class="btn btn-primary" value="Registrar">
                         
                         <!-- Botão para voltar à página principal sem cadastrar o cliente -->
-                        <a class="btn btn-outline-success" href="<?=$BASE_URL ?>index.php" role="button">Voltar</a>
+                        <a class="btn btn-primary" href="<?=$BASE_URL ?>index.php" role="button">Voltar</a>
                     </div>
                 </form>
             </div>
             <div class="col-md-6 mt-5">
                 <div class="row align-items-center">
                     <div class="col-12">
-                        <img src="img/insta6.jpg" alt="Tela de cadastro" class="img-fluid">
+                        <img src="img/shark1-removebg-preview.png" alt="Tela de cadastro" class="img-fluid">
                     </div>
                     <div class="col-12 " id="link-container">
-                        <a href="<?=$BASE_URL ?>login.php" class="link-success"><i class="bi bi-check-circle-fill"></i> Eu já tenho uma conta</a>
+                        <a href="<?=$BASE_URL ?>login.php" class="primary-color"><i class="bi bi-check-circle-fill"></i> Eu já tenho uma conta</a>
                     </div>
                 </div>
             </div>
